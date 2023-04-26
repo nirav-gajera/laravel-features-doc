@@ -1,3 +1,3 @@
 # laravel-feature-doc
 
-Laravel Useful features -2023
+Laravel useful features for beginner-2023
