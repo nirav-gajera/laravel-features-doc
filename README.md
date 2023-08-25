@@ -1,3 +1,3 @@
 # laravel-feature-doc
 
-Laravel 10.x useful features documentation for beginner-2023
+Laravel 10.x Useful Features Documentation for Beginner-2023
