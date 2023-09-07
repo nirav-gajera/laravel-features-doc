@@ -1,4 +1,4 @@
-# laravel-feature-doc
+# [laravel-feature-doc](https://nirav-gajera.github.io/laravel-features-doc/Laravel%20Doc..docx)
 
 Laravel 10.x Useful Features Documentation for Beginner-2023
 
